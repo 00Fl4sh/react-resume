@@ -49,11 +49,11 @@ const projectList = [
     url: "https://00fl4sh.github.io/Resume-Building/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Inventory",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+    "Created from shop Inventory and deployed to GitHub pages.",
+    url: "https://00fl4sh.github.io/login",
+  }
 ];
 
 const Portfolio = () => {
